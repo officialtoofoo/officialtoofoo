@@ -12,3 +12,4 @@ I'm A Small Content Creator, Developer, And Coder (HTML)
 
 That's All. Thank's For Reading -TooFoo (Goofy Game Dev)
 Also I Make Music. **The Song Of TooFoo - TooFooGD**
+btw check dis out. `GitHub: @officialtoofoo | YouTube: TooFooDev or @TheTooFoo | TikTok: TooFoo or @toofoodev`
