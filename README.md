@@ -1,5 +1,6 @@
 Hi, I'm TooFoo
 I'm A Small Content Creator, Developer, And Coder (HTML)
+<br>
 **Stuff About Me**
 - My Name Is Wes/Wesley
 - I Am Good At Math
@@ -10,4 +11,4 @@ I'm A Small Content Creator, Developer, And Coder (HTML)
 - I Like Playing VR
 
 That's All. Thank's For Reading -TooFoo (Goofy Game Dev)
-Also I Make Music **The Song Of TooFoo - TooFooGD**
+Also I Make Music. **The Song Of TooFoo - TooFooGD**
